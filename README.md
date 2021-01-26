@@ -6,4 +6,4 @@ A simple sonification of iris dataset features.
 
 ## Experiment 2
 
-A sonification of the open cluster M35
+Using 
