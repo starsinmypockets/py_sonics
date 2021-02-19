@@ -1,9 +1,11 @@
 Experimentation with sonification of data / images using FluidSynth.
 
-## Experiment 1
+Installation:
 
-A simple sonification of iris dataset features.
+* active virtualenv
+* `pip install -r requirements.txt`
+* `jupyter notebook`
 
-## Experiment 2
-
-Using 
+Contents:
+* A simple sonification of iris dataset features.
+* Sonification of a poem by Blaster Al Ackerman 
