@@ -80,6 +80,9 @@ target/
 
 # IPython
 profile_default/
+
+# output files
+*.wav
 ipython_config.py
 
 # pyenv
